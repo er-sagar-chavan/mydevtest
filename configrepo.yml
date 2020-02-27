@@ -1,0 +1,12 @@
+app:
+    name: My app
+    description: Welcome to ${app.name}
+
+my:
+   greeting: hello world from greeting server
+   list:
+        values: one, two, three
+db:
+   connection: connection string from config server
+   host: 127.0.0.1
+   port: 1
